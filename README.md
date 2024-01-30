@@ -1,4 +1,4 @@
-💵Exchange Rate Prediction💱
+💵ARIMA Time Series Model for Exchange Rate Forecasting💱
 
 💰Project Objective
 
