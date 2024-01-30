@@ -30,6 +30,8 @@ The project involves developing a machine learning model using the information o
 
 The forecasting results obtained from the machine learning model will be presented to the user visually and numerically. In this step, exchange rate graphs, statistics, or text-format reports can be used to demonstrate the accomplishment of the project's initial objectives.
 
+![largest_difference](https://github.com/Ewrise/ARIMA-Time-Series-Model-for-Exchange-Rate-Forecasting/assets/122156367/379715cf-f158-4656-b75d-953aaf10f5cb)
+
 ♟️Usage
 
 1- Download the Dataset:
@@ -47,6 +49,8 @@ Clone the GitHub repository or download and extract the ZIP file. Then, navigate
 4- Examine Analyses and Visualizations:
 
 After successfully running the project files, observe the generated analyses and visualizations to understand the project's results. For example, if you are using Jupyter Notebook, you can open the "exchange_rate_prediction.ipynb" file to follow the analysis step by step.
+
+![average_close](https://github.com/Ewrise/ARIMA-Time-Series-Model-for-Exchange-Rate-Forecasting/assets/122156367/293cf5e7-4f19-49ca-97b3-0bb258522199)
 
 🚩About the Dataset
 
